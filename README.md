@@ -36,20 +36,18 @@ streamlit run web_app.py
 
 7. Click on the "Predict" button to obtain the prediction result.
 
-## Dependencies 📦 
-
-Here are the dependencies you need:
-
-- Python 3.x
-- Streamlit
-- scikit-learn
-- Pandas
-- NumPy
-
 ## Dataset 📊 
 
-The dataset used for training and testing the model is not included in this repository. However, you can find datasets for diabetes prediction online or use your own dataset.
+The dataset is provided in the diabetes.csv file where a diabetic person is classified as 1 and a non diabetic person is classified as 0.
 
 ## About SVM Algorithm 🤖 
 
 Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for classification or regression tasks. In this project, SVM is utilized for binary classification to predict whether a person has diabetes or not based on input features.
+
+## Test Results 📊
+
+### Diabetic Person Prediction
+![Diabetic Person Prediction](images/Diabetic.jpg)
+
+### Not Spam Message Prediction
+![Non Diabetic Person Prediction](images/NotDiabetic.jpg)
