@@ -49,5 +49,5 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm that can
 ### Diabetic Person Prediction
 ![Diabetic Person Prediction](images/Diabetic.jpg)
 
-### Not Spam Message Prediction
+### Non Diabetic Person Prediction
 ![Non Diabetic Person Prediction](images/NotDiabetic.jpg)
