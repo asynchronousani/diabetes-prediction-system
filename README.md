@@ -2,7 +2,7 @@
 
 This project is a Diabetes Prediction System built using the Support Vector Machine (SVM) algorithm. It aims to predict the likelihood of a person having diabetes based on certain input features.
 
-## Usage 🚀 
+## Usage 💻
 
 To use the Diabetes Prediction System, follow these steps:
 
